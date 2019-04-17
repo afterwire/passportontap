@@ -1,8 +1,6 @@
-# Webpack Frontend Starterkit
+# Passports on Tap
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
-
-A lightweight foundation for your next webpack based frontend project.
+A simple proof of concept for a new landing page design.
 
 
 ### Installation
