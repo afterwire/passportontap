@@ -6403,5 +6403,11 @@ label.panel-block {
   display: none;
   visibility: hidden; }
 
+#google-map {
+  height: 400px;
+  margin-top: -3rem;
+  margin-bottom: -3rem;
+  margin-left: -1.2rem; }
+
 
 /*# sourceMappingURL=bundle.css.map*/
