@@ -1,4 +1,17 @@
 .passport-hero {
   background-image: url("../../public/beer-1.jpg");
   background-size: cover;
+
+  &__body {
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+  }
+
+  &__appstore {
+    height: 4rem;
+  }
+
+  &__title {
+    font-size: 4rem;
+  }
 }
