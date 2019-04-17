@@ -6384,5 +6384,12 @@ label.panel-block {
   .passport-hero__title {
     font-size: 4rem; }
 
+.instructions {
+  font-size: 110%; }
+  .instructions__value-add {
+    font-size: 2rem;
+    padding-top: 3.5rem;
+    text-transform: uppercase; }
+
 
 /*# sourceMappingURL=bundle.css.map*/
